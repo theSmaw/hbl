@@ -1,39 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a25111a2-aab2-46b5-8e3e-48d415c97eb1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cypress.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cypress/fixtures/example.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cypress/integration/app.spec.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cypress/plugins/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cypress/support/commands.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cypress/support/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/fixtures/lesson/lesson-1.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/fixtures/lessons/friday.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/fixtures/lessons/monday.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/fixtures/lessons/thursday.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/fixtures/lessons/tuesday.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/fixtures/lessons/wednesday.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/fixtures/quiz/quiz-1.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/routes/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/routes/lesson/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/routes/lessons/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/routes/quiz/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/routes/sendJsonResponse.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/pair.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.old.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" />
-    </list>
+    <list default="true" id="a25111a2-aab2-46b5-8e3e-48d415c97eb1" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -68,7 +36,7 @@
       <workItem from="1606360936732" duration="628000" />
       <workItem from="1606366957005" duration="9319000" />
       <workItem from="1614216464204" duration="345000" />
-      <workItem from="1623144062763" duration="1204000" />
+      <workItem from="1623144062763" duration="1503000" />
     </task>
     <servers />
   </component>

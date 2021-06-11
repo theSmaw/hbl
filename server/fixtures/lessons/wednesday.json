@@ -1,0 +1,23 @@
+[
+  {
+    "duration": 90,
+    "id": "lesson-7",
+    "startTime": "09:30",
+    "teacher": "Mrs Indigo",
+    "title": "History"
+  },
+  {
+    "duration": 90,
+    "id": "lesson-8",
+    "startTime": "11:00",
+    "teacher": "Mr Violet",
+    "title": "Science"
+  },
+  {
+    "duration": 90,
+    "id": "lesson-9",
+    "startTime": "13:30",
+    "teacher": "Mr Red",
+    "title": "PE"
+  }
+]

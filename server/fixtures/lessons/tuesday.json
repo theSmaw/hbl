@@ -1,0 +1,23 @@
+[
+  {
+    "duration": 90,
+    "id": "lesson-4",
+    "startTime": "09:30",
+    "teacher": "Mr Yellow",
+    "title": "Maths"
+  },
+  {
+    "duration": 90,
+    "id": "lesson-5",
+    "startTime": "11:00",
+    "teacher": "Mr Green",
+    "title": "IT"
+  },
+  {
+    "duration": 90,
+    "id": "lesson-6",
+    "startTime": "13:30",
+    "teacher": "Mr Blue",
+    "title": "Music"
+  }
+]

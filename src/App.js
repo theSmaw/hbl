@@ -1,8 +1,27 @@
-import React from 'react';
+import React, { useEffect } from 'react';
+import axios from 'axios';
+
 import logo from './logo.svg';
 import './App.css';
 
 function App() {
+
+  useEffect(
+      () => {
+        const getLesson = async () => {
+          try {
+            const lesson = await axios.get('http://localhost:3001/lesson/lesson-1');
+
+            console.log({ lesson });
+          } catch (e) {
+            console.log({ e });
+          }
+        };
+
+        getLesson();
+      }
+  );
+
   return (
     <div className="App">
       <header className="App-header">

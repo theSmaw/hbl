@@ -1,0 +1,94 @@
+{
+  "duration": 90,
+  "id": "lesson-1",
+  "sections": [
+    {
+      "paragraphs": [
+        "\"Do you hear\", Vasudeva's gaze asked again.",
+        "Brightly, Vasudeva's smile was shining, floating radiantly over all the wrinkles of his old face, as the Om was floating in the air over all the voice of the river. Brightly his smile was shining, when he looked at his friend, and brightly the same smile was now starting to shine on Siddhartha's face as well. His wound blossomed, his suffering was shining, his self had flown into the oneness.",
+        "In this hour, Siddharta stopped fighting his fate, stopped suffering. On his face flourished the cheerfluness of a knowledge, which is no longer opposed by any will, which knows perfection, which is in agreement with the flow of events, with the current of life, full of sympathy for the pain of others, full of sympathy for the pleasure of others, devoted to the flow, belonging to the oneness.",
+        "When Vasudeva rose from the seat by the bank, when he looked into Siddhartha's eyes and saw the cheerfulness of the knowledge shining in them, he softly touched his shoulder with his hand, in this careful and tender manner, and said: \"I've been waiting for this hour, my dear. Now that it has come, let me leave. For a long time, I've been waiting for this hour; for a long time, I've been Vasudeva the ferryman. Now it's enough. Farewell, hut, farewll, river, farwell, Siddhartha!\"",
+        "Siddharta made a deep bow before him who bid his farewell.",
+        "\"I've know it\", he said quietly. \"You'll got into the forests?\"",
+        "\"I'm going into the forests, I'm going into the oneness\", spoke Vasudeva with a bright smile."
+      ],
+      "title": "Siddhartha",
+      "type": "content"
+    },
+    {
+      "items": [
+        {
+          "answers": [
+            {
+              "id": "answer-1",
+              "answer": "death"
+            },
+            {
+              "id": "answer-2",
+              "answer": "true experience"
+            },
+            {
+              "id": "answer-3",
+              "answer": "God"
+            },
+            {
+              "id": "answer-4",
+              "answer": "masters"
+            }
+          ],
+          "id": "question-1",
+          "question": "According to Siddhartha, knowledge can come from teachers, but wisdom must come from"
+        },
+        {
+          "answers": [
+            {
+              "id": "answer-1",
+              "answer": "Freedom"
+            },
+            {
+              "id": "answer-2",
+              "answer": "Man's excesses"
+            },
+            {
+              "id": "answer-3",
+              "answer": "Siddhartha's physical self"
+            },
+            {
+              "id": "answer-4",
+              "answer": "Siddhartha's spiritual self"
+            }
+          ],
+          "id": "question-2",
+          "question": "In the \"Sansara\" section, when Siddhartha dreams of Kamala's pet bird, what does the bird represent?"
+        },
+        {
+          "answers": [
+            {
+              "id": "answer-1",
+              "answer": "His bald head"
+            },
+            {
+              "id": "answer-2",
+              "answer": "His eyes"
+            },
+            {
+              "id": "answer-3",
+              "answer": "His gnarled hands"
+            },
+            {
+              "id": "answer-4",
+              "answer": "His smile"
+            }
+          ],
+          "id": "question-3",
+          "question": "What is Vasudeva's most memorable feature?"
+        }
+      ],
+      "title": "Quiz",
+      "type": "Quiz"
+    }
+  ],
+  "startTime": "09:30",
+  "teacher": "Mr Green",
+  "title": "English"
+}

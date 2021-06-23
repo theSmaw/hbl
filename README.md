@@ -1,3 +1,5 @@
+https://us04web.zoom.us/j/79363700730?pwd=eVdXSHVNc3ZWRkRMOXNGV2cvUDhSQT09
+
 ## Getting started 
 
 ### Installation

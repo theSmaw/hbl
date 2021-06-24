@@ -1,4 +1,4 @@
-https://us04web.zoom.us/j/79363700730?pwd=eVdXSHVNc3ZWRkRMOXNGV2cvUDhSQT09
+https://us04web.zoom.us/j/77170261747?pwd=UUh0T1NkZWR5Tnd2UGRrUGVET00xQT09
 
 ## Getting started 
 

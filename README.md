@@ -1,5 +1,3 @@
-https://us04web.zoom.us/j/77131902845?pwd=UzZJblg5OXkvMTJHbTU4azBpREtOUT09
-
 ## Getting started 
 
 ### Installation
